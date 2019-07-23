@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+
+<head>
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="SemiColonWeb" />
+
+  <!-- Stylesheets
+	============================================= -->
+  <link href="https://fonts.googleapis.com/css?family=Caveat:400,700|Encode+Sans+Expanded:200,300,400,500,600,700|Nunito:300,400,600,700|Jura:600|Kodchasan:200,300,400,500|Mallanna|Mukta:200,300,400,500,600,700,800|Quicksand:300,400,500,700|Sirin+Stencil|Syncopate:400,700|Varela+Round"
+    rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="style.css" type="text/css" />
+  <link rel="stylesheet" href="css/dark.css" type="text/css" />
+  <link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+  <link rel="stylesheet" href="css/animate.css" type="text/css" />
+  <link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+
+
+  <link rel="stylesheet" href="css/responsive.css" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Favicon
+	============================================= -->
+	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+	<link rel="manifest" href="site.webmanifest">
+	<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+
+  <!-- Document Title
+	============================================= -->
+  <title>About Us - CashForCameras.com - Top Dollar for Your Equipment</title>
+
+</head>
+
+<body class="stretched overlay-menu">
+
+  <!-- Document Wrapper
+	============================================= -->
+  <div id="wrapper" class="clearfix">
+
+    <!-- Header
+		============================================= -->
+    <header id="header" class="transparent-header">
+
+      <div id="header-wrap">
+
+        <div class="container clearfix">
+
+          <div id="primary-menu-trigger"><i class="icon-line-menu"></i></div>
+
+          <!-- Logo
+					============================================= -->
+					<div id="logo">
+						<a href="https://www.cashforcameras.com/" class="standard-logo"><img src="images/cashforcameras-logo.png" alt="CashForCameras Logo"></a>
+						<a href="https://www.cashforcameras.com/" class="retina-logo"><img src="images/cashforcameras-logo.png" alt="CashForCameras Logo"></a>
+					</div><!-- #logo end -->
+
+          <!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu">
+
+						<ul>
+							<li><a href="https://www.cashforcameras.com/">
+									<div>Home</div>
+								</a></li>
+							<li><a href="https://www.cashforcameras.com/cash-offer-form/a/1">
+									<div>Cash Offer Form</div>
+								</a></li>
+							<li><a href="how-it-works">
+									<div>How it Works</div>
+								</a></li>
+							<li><a href="frequently-asked-questions">
+									<div>Frequently Asked Questions</div>
+								</a></li>
+							<li><a href="customer-reviews">
+									<div>Customer Reviews</div>
+								</a></li>
+							<li class="current"><a href="about-us">
+									<div>About Us</div>
+								</a></li>
+							<li><a href="our-environmental-mission">
+									<div>Our Environmental Mission</div>
+								</a></li>
+							<li><a href="contact-us">
+									<div>Contact Us</div>
+								</a></li>
+						</ul>
+
+						<a href="#" id="overlay-menu-close" class="d-none d-lg-block"><i class="icon-line-cross" id="x-to-close"></i></a>
+
+					</nav><!-- #primary-menu end -->
+
+        </div>
+
+      </div>
+
+    </header><!-- #header end -->
+
+    <!-- Page Title
+		============================================= -->
+    <section id="page-title" class="" style="background: url('images/about-us-title-bg.svg') bottom no-repeat; background-size: contain;">
+
+      <div class="center" id="page-title-about">
+        <h1 style="margin-bottom: 10px;">About Us</h1>
+        <p id="page-title-about-txt">At CashForCameras we pay top dollar for new and used
+        cameras, lenses, drones and video equipment.
+        </p>
+			</div>
+
+    </section><!-- #page-title end -->
+
+    <!-- Content
+  ============================================= -->
+
+  <!-- <img src="images/cashforcameras-team-pic.jpg" alt=""> -->
+
+    <section id="content">
+
+      <!-- Message from our Founder
+      ============================================= -->
+      <div class="section nobg nobottompadding nobottommargin clearfix">
+        <div class="container clearfix">
+          <div class="row clearfix">
+
+            <div class="col-lg-5 order-lg-1" style="margin-left: 10%" id="jeff-quote">
+              <div class="device-xl device-md" style="margin-top: 10px;"></div>
+              <h3 class="bottommargin-sm" style="font-size: 40px;">Our goal is simple.</h3>
+              <p id="quote-text">"What started as a hobby 17 years ago, quickly evolved into a successful business.  Our goal is simple. We want to give people the best deal they can find, so they can sell their equipment for the most cash."</p>
+              <span id="jeff-name">-Jeff H.</span><br>
+                <span id="jeff-title"><strong>* Jeff is the Founder of CashForCameras.com, <a href="https://www.cashforyourmac.com/" target="_blank">CashForYourMac.com</a> and <a href="https://www.qualitymacs.com/" target="_blank">QualityMacs.com</a></strong></span>
+
+              <!-- <a href="#" class="button-link bottommargin">Read More</a> -->
+            </div>
+
+            <div class="col-lg-5 order-lg-12">
+              <div style="position: relative; margin-bottom: 0;" class="ohidden" data-height-xl="546" data-height-lg="546" data-height-md="546" data-height-sm="546" data-height-xs="280">
+                <img class="man" id="jeff-founder-pic" src="images/jeff-founder.jpg" style="position: absolute; top: 0; left: auto;" alt="Chrome">
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="content-wrap notoppadding pb-0">
+
+        <div class="section nomargin noborder dark" style="background-image: radial-gradient( circle 363px at 49.1% 0.8%,  rgba(54,96,172,1) 0%, rgba(46,53,89,1) 100.2% );">
+          <div class="container center clearfix">
+
+            <div class="heading-block">
+              <h1>Trusted</h1>
+            </div>
+            <div style="max-width: 430px; margin: auto; text-align: justify;">
+                <ul class="value-subtext iconlist">
+                  <li><i class="icon-checkbox-checked"></i>Over 5000 positive customer reviews</li>
+                  <li><i class="icon-checkbox-checked"></i>A+ Rated by the Better Business Bureau.</li>
+                  <li><i class="icon-checkbox-checked"></i>Verified Paypal Business since 2001.</li>
+                </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="section nomargin noborder dark" style="background-image: radial-gradient( circle 363px at 49.1% 0.8%,  rgba(54,96,172,1) 0%, rgba(46,53,89,1) 100.2% );">
+          <div class="container center clearfix">
+
+            <div class="heading-block">
+              <h1>Fair</h1>
+            </div>
+            <div style="max-width: 840px; margin: auto; text-align: justify;">
+              <ul class="value-subtext iconlist">
+                <li><i class="icon-checkbox-checked"></i>Your cash offer is secured for 30 days. Need more time? Simply contact us.</li>
+                <li><i class="icon-checkbox-checked"></i>We will provide a <strong>FREE</strong> prepaid shipping label with shipping insurance.</li>
+                <li><i class="icon-checkbox-checked"></i>At any time before being paid, you can cancel the sale and request the return of your equipment.
+                We'll even cover the shipping cost to return your equipment to you.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="section nomargin noborder dark" style="background-image: radial-gradient( circle 363px at 49.1% 0.8%,  rgba(54,96,172,1) 0%, rgba(46,53,89,1) 100.2% );">
+          <div class="container center clearfix">
+
+            <div class="heading-block">
+              <h1>Fast</h1>
+            </div>
+            <div style="max-width: 720px; margin: auto; text-align: justify;">
+              <ul class="value-subtext iconlist">
+                <li><i class="icon-checkbox-checked"></i>We guarantee that in 1-2 business days after we receive your equipment as described, we will pay you the FULL AMOUNT we have offered.</li>
+                <li><i class="icon-checkbox-checked"></i>Get paid electronically via PayPal, or request a check in the mail.<br>
+                Checks may be expedited upon request for an additional cost.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Our Headqurters
+				============================================= -->
+
+        <div class="container topmargin-lg bottommargin-lg">
+          <div style="position: relative;">
+						<img src="gallery/9.jpg" alt="" class="contact-image">
+						<div class="contact-section dark" style="background-color: #333333;">
+              <h1 style="margin-bottom: 10px;">Our Headquarters</h1>
+              <span>Stop by for an in person cash offer!</span>
+							<div style="font-size: 15px; line-height: 1.7; margin-top: 20px;">
+								<address style="line-height: 1.7;">
+                <span class="t700">Address:</span><br>
+								<span class="h6 text-white ls1 t400">
+                  3944 Murphy Canyon Rd C105<br>
+                  San Diego, CA 92123
+								</span>
+                </address>
+                <span class="t700">Hours:</span><br>
+								<span class="h6 text-white ls1 t400" id="hq-hours">
+									Mon - Fri:&nbsp; 9:30am - 4:30pm<br>
+									<!-- Tue &nbsp;&nbsp;&nbsp;&nbsp;9:30am-4:30pm<br>
+									Wed &nbsp;&nbsp;&nbsp;9:30am-4:30pm<br>
+                  Thu &nbsp;&nbsp;&nbsp;&nbsp;9:30am-4:30pm<br>
+                  Fri &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:30am-4:30pm<br> -->
+                  Sat / Sun:&nbsp; Closed<br>
+                  <!-- Sun &nbsp;&nbsp;&nbsp;&nbsp;Closed<br><br> -->
+								</span>
+							</div>
+						</div>
+					</div>
+					<div class="clear topmargin"></div>
+        </div>
+
+      </div>
+
+      <!-- Our Environmental Mission
+      ============================================= -->
+
+      <div class="container clearfix center topmargin-lg">
+				<h1 id="">Our Environmental Mission</h1>
+        <p id="mission-text">To offer a sustainable and eco-friendly way to sell your equipment.
+        </p>
+			</div>
+
+      <div class="container clearfix bottommargin-lg">
+
+      <div class="col_full bottommargin" style="padding-top: 15px; max-width: 600px; margin: 0 auto;">
+
+        <h3>By selling your equipment to CashForCameras, you will help us to:</h3>
+
+        <ul class="iconlist iconlist-large iconlist-color">
+          <li><i class="icon-ok-sign green"></i> Reduce the electronic waste reaching our landfills.</li>
+          <li><i class="icon-ok-sign green"></i> Reduce air pollution from new device manufacturing.</li>
+          <li><i class="icon-ok-sign green"></i> Conserve our planet’s valuable natural resources.</li>
+        </ul>
+
+        <p>We responsibly re-use all shipping materials that are sent to us. When necessary, we purchase recycled and bio-degradable packaging materials. All usable device hardware is salvaged, inspected, tested and re-used. Unusable glass, metal and components are properly sorted and recycled.</p>
+
+      </div>
+
+      <!-- <div class="col_half notopmargin nobottommargin col_last">
+
+        <img src="images/recycle-people.jpg" alt="Green Earth Illustration" style="position: center;">
+
+      </div> -->
+
+    </div>
+
+    <!-- Photo Gallery
+    ============================================= -->
+
+    <div class="content-wrap notoppadding pb-0">
+
+    <div class="masonry-thumbs grid-4 mt-5" data-lightbox="gallery">
+      <a href="gallery/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="gallery/1.jpg" alt="Gallery Thumb 1"><i class="icon-resize-full"></i></a>
+      <a href="gallery/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="gallery/2.jpg" alt="Gallery Thumb 2"><i class="icon-resize-full"></i></a>
+      <a href="gallery/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="gallery/3.jpg" alt="Gallery Thumb 3"><i class="icon-resize-full"></i></a>
+      <a href="gallery/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="gallery/4.jpg" alt="Gallery Thumb 4"><i class="icon-resize-full"></i></a>
+      <a href="gallery/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="gallery/5.jpg" alt="Gallery Thumb 5"><i class="icon-resize-full"></i></a>
+      <a href="gallery/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="gallery/6.jpg" alt="Gallery Thumb 6"><i class="icon-resize-full"></i></a>
+      <a href="gallery/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="gallery/7.jpg" alt="Gallery Thumb 7"><i class="icon-resize-full"></i></a>
+      <a href="gallery/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="gallery/8.jpg" alt="Gallery Thumb 9"><i class="icon-resize-full"></i></a>
+    </div>
+
+  </div>
+
+  		</section><!-- #page-title end -->
+
+  <!-- #content end -->
+
+  <!-- Footer
+============================================= -->
+  <footer id="footer" class="noborder text-light">
+
+    <div class="container clearfix">
+
+      <!-- Footer Widgets
+    ============================================= -->
+      <div class="footer-widgets-wrap clearfix" style="padding: 60px 0 10px;">
+
+        <div class="row">
+
+          <div class="col-lg-5">
+
+            <!-- Logo
+          ============================================= -->
+            <div>
+              <a href="https://www.cashforcameras.com/"><img src="images/cashforcameras-logo-footer.png" class="footer-logo" alt="Cash For Cameras Logo"></a>
+              <p class="footer-logo-text">We pay top dollar for your cameras,<br>
+              lenses, drones and video equipment.</p>
+            </div>
+
+          </div>
+
+          <div class="col-lg-7 col-md-6">
+
+            <div class="row clearfix">
+              <div class="col-lg-6">
+                <div class="widget widget_links clearfix">
+                  <h4 class="text-light">Get Started</h4>
+                  <ul>
+                    <li><a href="https://www.cashforcameras.com/cash-offer-form/a/1">Cash Offer Form</a></li>
+                    <li><a href="how-it-works">How it Works</a></li>
+                    <li><a href="frequently-asked-questions">Frequently Asked Questions</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="widget widget_links clearfix">
+                  <h4 class="text-light">Learn More</h4>
+                  <ul>
+                    <li><a href="customer-reviews">Customer Reviews</a></li>
+                    <li><a href="about-us">About Us</a></li>
+                    <li><a href="our-environmental-mission">Our Environmental Mission</a></li>
+                    <li><a href="contact-us">Contact Us</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="clear"></div>
+
+          </div>
+
+        </div>
+
+        <div class="row" style="margin-top: 135px;">
+
+          <div class="col-lg-8">
+
+            <!-- Social Media Links Column
+						============================================= -->
+
+            <!-- <div class="bottommargin-sm clearfix">
+              <a href="#" class="social-icon si-dark si-small si-rounded si-facebook" title="Facebook">
+                <i class="icon-facebook"></i>
+                <i class="icon-facebook"></i>
+              </a>
+
+              <a href="#" class="social-icon si-dark si-small si-rounded si-twitter" title="Twitter">
+                <i class="icon-twitter"></i>
+                <i class="icon-twitter"></i>
+              </a>
+
+              <a href="#" class="social-icon si-dark si-small si-rounded si-instagram" title="Instagram">
+                <i class="icon-instagram"></i>
+                <i class="icon-instagram"></i>
+              </a>
+
+              <a href="#" class="social-icon si-dark si-small si-rounded si-pinterest" title="Pinterest">
+                <i class="icon-pinterest"></i>
+                <i class="icon-pinterest"></i>
+              </a>
+
+              <a href="#" class="social-icon si-dark si-small si-rounded si-vimeo" title="Vimeo">
+                <i class="icon-vimeo"></i>
+                <i class="icon-vimeo"></i>
+              </a>
+            </div> -->
+
+          </div>
+
+          <div class="col-lg-4">
+
+            <p style="padding: 10px 50px 0 0;"><a href="privacy-policy" id="priv-term-text">Privacy Policy</a> | <a href="terms-and-conditions" id="priv-term-text">Terms and Conditions</a></p>
+
+          </div>
+
+        </div>
+      </div>
+
+    </div><!-- .footer-widgets-wrap end -->
+
+</div>
+
+</footer><!-- #footer end -->
+
+  </div><!-- #wrapper end -->
+
+  <!-- Go To Top
+	============================================= -->
+  <div id="gotoTop" class="icon-angle-up"></div>
+
+  <!-- External JavaScripts
+	============================================= -->
+  <script src="js/jquery.js"></script>
+  <script src="js/plugins.js"></script>
+
+  <!-- Footer Scripts
+	============================================= -->
+  <script src="js/functions.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="SemiColonWeb" />
+
+	<!-- Stylesheets
+	============================================= -->
+	<link href="https://fonts.googleapis.com/css?family=Encode+Sans+Expanded:200,300,400,500,600,700|Nunito:300,400,600,700|Kodchasan:200,300,400,500|Mallanna|Mukta:200,300,400,500,600,700,800|Quicksand:300,400,500,700|Sirin+Stencil|Syncopate:400,700|Varela+Round|Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="stylesheet" href="css/dark.css" type="text/css" />
+	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="css/animate.css" type="text/css" />
+	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+
+
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<!-- Favicon
+	============================================= -->
+	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+	<link rel="manifest" href="site.webmanifest">
+	<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+
+	<!-- Document Title
+	============================================= -->
+	<title>Contact Us - CashForCameras.com - Top Dollar for Your Equipment</title>
+
+</head>
+
+<body class="stretched overlay-menu">
+
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
+
+		<!-- Header
+		============================================= -->
+		<header id="header" class="transparent-header">
+
+			<div id="header-wrap">
+
+				<div class="container clearfix">
+
+					<div id="primary-menu-trigger"><i class="icon-line-menu"></i></div>
+
+					<!-- Logo
+					============================================= -->
+					<div id="logo">
+						<a href="https://www.cashforcameras.com/" class="standard-logo"><img src="images/cashforcameras-logo.png" alt="CashForCameras Logo"></a>
+						<a href="https://www.cashforcameras.com/" class="retina-logo"><img src="images/cashforcameras-logo.png" alt="CashForCameras Logo"></a>
+					</div><!-- #logo end -->
+
+					<!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu">
+
+						<ul>
+							<li><a href="https://www.cashforcameras.com/">
+									<div>Home</div>
+								</a></li>
+							<li><a href="https://www.cashforcameras.com/cash-offer-form/a/1">
+									<div>Cash Offer Form</div>
+								</a></li>
+							<li><a href="how-it-works">
+									<div>How it Works</div>
+								</a></li>
+							<li><a href="frequently-asked-questions">
+									<div>Frequently Asked Questions</div>
+								</a></li>
+							<li><a href="customer-reviews">
+									<div>Customer Reviews</div>
+								</a></li>
+							<li><a href="about-us">
+									<div>About Us</div>
+								</a></li>
+							<li><a href="our-environmental-mission">
+									<div>Our Environmental Mission</div>
+								</a></li>
+							<li class="current"><a href="contact-us">
+									<div>Contact Us</div>
+								</a></li>
+						</ul>
+
+						<a href="#" id="overlay-menu-close" class="d-none d-lg-block"><i class="icon-line-cross" id="x-to-close"></i></a>
+
+					</nav><!-- #primary-menu end -->
+
+				</div>
+
+			</div>
+
+		</header><!-- #header end -->
+
+		<!-- Page Sub Menu
+		============================================= -->
+		<div id="page-menu">
+
+			<div id="page-menu-wrap">
+
+				<div class="container clearfix">
+
+					<div class="menu-title">Contact <span>Us</span></div>
+
+				</div>
+
+			</div>
+
+		</div><!-- #page-menu end -->
+
+    <!-- Content
+  ============================================= -->
+  <section id="content" style="background: url('images/subtle_dots.png') repeat">
+
+    <div class="content-wrap">
+
+      <div class="container bottommargin-lg">
+        <!-- Contact Info
+        ============================================= -->
+        <div class="row clear-bottommargin">
+
+          <div class="col_one_third">
+						<div class="feature-box fbox-plain">
+							<div class="fbox-icon">
+								<a href="#"><i class="icon-line-mail" id="contact-icon"></i></a>
+							</div>
+							<h3>Email</h3>
+							<p><a href="mailto:support@cashforcameras.com" target="_top">support@cashforcameras.com</a></p>
+						</div>
+					</div>
+
+          <div class="col_one_third col_last">
+						<div class="feature-box fbox-plain">
+							<div class="fbox-icon">
+								<a href="#"><i class="icon-phone3" id="contact-icon"></i></a>
+							</div>
+							<h3>Call</h3>
+							<p><a href="tel:8775005960">877 - 500 - 5960</a></p>
+						</div>
+					</div>
+
+        </div><!-- Contact Info End -->
+      </div>
+
+      <div class="container clearfix">
+
+        <!-- Contact Form
+					============================================= -->
+					<div class="col_three_fifth">
+
+            <div class="fancy-title title-dotted-border">
+							<h3>Send us a Message</h3>
+						</div>
+
+                <p class="lead">We would love to hear from you!</p>
+
+
+                <form id="contact-form" method="post" action="contact.php" role="form">
+
+                    <div class="messages"></div>
+
+                    <div class="controls">
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="form_name">First Name *</label>
+                                    <input id="form_name" type="text" name="name" class="form-control" placeholder="" required="required" data-error="First name is required.">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="form_lastname">Last Name *</label>
+                                    <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="" required="required" data-error="Last name is required.">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="form_email">Email *</label>
+                                    <input id="form_email" type="email" name="email" class="form-control" placeholder="" required="required" data-error="Valid email is required.">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="form_need">Subject *</label>
+                                    <select id="form_need" name="need" class="form-control" required="required" data-error="Please specify your suject.">
+                                        <option value=""></option>
+                                        <option value="Request quotation">Cash Offer</option>
+                                        <option value="Request order status">Cash Offer Payment</option>
+                                        <option value="Request copy of an invoice">Return Request</option>
+                                        <option value="Other">Other</option>
+                                    </select>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label for="form_message">Message *</label>
+                                    <textarea id="form_message" name="message" class="form-control" placeholder="" rows="4" required="required" data-error="Please, leave us a message."></textarea>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <input type="submit" id="submit-button" class="button button-3d nomargin" value="Send message">
+                            </div>
+                        </div>
+                        <div class="row mt-3">
+                            <div class="col-md-12">
+                                <p class="text-muted">
+                                    <strong>*</strong> Required Fields
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                </form>
+
+					</div><!-- Contact Form End -->
+
+        <!-- Google Map
+        ============================================= -->
+        <div class="col_two_fifth col_last">
+
+          <div class="feature-box fbox-plain bottommargin">
+            <div class="fbox-icon">
+              <a href="#"><i class="icon-location" id="contact-icon"></i></a>
+            </div>
+            <h3>Visit Us</h3>
+            <p><a href="https://www.google.com/maps/search/?api=1&query=32.816730,-117.117610&query_place_id=ChIJyyK07ltT2YAR_2bpYqEoKY8" target="_blank">3944 Murphy Canyon Rd C105<br>
+            San Diego, CA 92123</a></p><br>
+						<h3>HOURS</h3>
+						<p id="hq-hours">Mon - Fri : 9:30am - 4:30pm<br>
+						Sat / Sun : Closed</p>
+          </div>
+
+          <div class="mapouter" style="margin:auto;"><div class="gmap_canvas"><iframe width="300" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=3944%20Murphy%20Canyon%20Rd%20C105%2C%20San%20Diego%2C%20CA%2092123&t=&z=11&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.jetzt-drucken-lassen.de">jetzt-drucken-lassen.de</a></div><style>.mapouter{text-align:right;height:400px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:300px;}</style>
+						</div>
+
+        </div><!-- Google Map End -->
+
+        <div class="clear"></div>
+
+      </div>
+
+			<!-- Frequently Asked Questions
+			============================================= -->
+
+			<div id="section-faqs" class="page-section container">
+
+					<h1 class="center font-body bottommargin-md">Frequently Asked Questions</h1>
+
+					<div id="faq-listed" class="bottommargin-md">
+
+						<ol class="faqlist">
+							<li><strong><a href="#" data-scrollto="#faq-1">How does the process work?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-2">How much is my equipment worth?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-3">How would I get paid?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-4">How long is my cash offer quote good for?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-5">How does shipping work?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-6">How should I pack my item for shipping?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-7">Where can I go to ship my equipment?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-8">How long is my shipping label good for?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-9">Can CashForCameras mail me a box for me to ship my equipment?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-10">What happens if my equipment gets damaged when I ship it?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-11">What happens if the equipment I am selling is determined to be “not as described” by CashForCameras?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-12">Can I trust your website?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-13">Other than cameras, lenses, drone, and video equipment, are there any other products that CashForCameras is willing to buy?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-14">If another website offers me more cash for my equipment, will CashForCameras match the offer?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-15">If my equipment is broken or not working, will CashForCameras still buy it?</a></strong></li>
+							<li><strong><a href="#" data-scrollto="#faq-16">What if I change my mind and want my equipment back, after I have already shipped?</a></strong></li>
+						</ol>
+					</div>
+
+					<div class="row topmargin-sm clearfix bottommargin-lg" style="max-width: 850px; margin: 0 auto;">
+
+						<div class="divider"><i class="icon-circle"></i>
+						</div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-1" class="font-body" style="margin-bottom:25px;">1. How does the process work?</h2>
+
+							<h4 class="listed-step"><strong>Step 1</strong> - Get A Cash Offer</h4>
+							<div class="bottommargin-sm">
+								<p style="margin-bottom: 0px !important">
+									Within 2 business days after completing our <a href="#">Cash Offer Form</a>, you will receive an email from us that will include:<BR>
+								</p>
+								<ul id="email-items">
+									<li>Our cash offer, valid for 30 days.</li>
+									<li>A FREE prepaid shipping label.</li>
+									<li>Shipping instructions.</li>
+								</ul>
+								<a href="https://www.cashforcameras.com/cash-offer-form/a/1" class="btn btn-primary"><span>GET A CASH OFFER</span></a>
+							</div>
+
+							<h4 class="listed-step"><strong>Step 2</strong> - Ship Your Equipment</h2>
+							<div>
+								<p>Shipping insurance is included at no additional cost to you. Your equipment will be insured for 100% of your cash offer quote. To meet shipping insurance eligibility, packages must be shipped with 3-4 inches of padding on all sides. A secure, tightly packed box  with no loose items will help prevent any damage to the equipment during shipment. <a href="#">CLICK HERE</a> to view our detailed shipping instructions.</p>
+							</div>
+
+							<h4 class="listed-step"><strong>Step 3</strong> - Get Paid</h4>
+							<div>
+								<p>Once we receive your equipment as described, we will process your payment in 1-2 business days. Get paid electronically via PayPal, or request a check in the mail. Checks may be expedited upon request for an additional cost.</p>
+							</div>
+
+						</div>
+
+						<div class="col-lg-5 col-md-6" style="padding-top:">
+							<img src="images/3-steps.svg" alt="">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i></div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-2" class="font-body" style="margin-bottom:15px;">2. How much is my equipment worth?</h2>
+							<p class="answer-text">Simply <a href="https://www.cashforcameras.com/cash-offer-form/a/1">CLICK HERE</a> to request your cash offer. Our Cash Offer form will ask for basic info about your equipment, such as make, model and condition.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/equipment-icons.svg" alt="">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i></div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-3" class="font-body" style="margin-bottom:15px;">3. How would I get paid?</h2>
+							<p class="answer-text">You can choose to get paid electronically via PayPal, or request a check in the mail. Payments are processed 1-2 business days after we receive your equipment as described. Checks may be expedited upon request for an additional cost.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/payment-types-icons.svg" alt="Paypal and check icon">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i></div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-4" class="font-body" style="margin-bottom:15px;">4. How long is my cash offer quote good for?</h2>
+							<p class="answer-text">Once you receive your cash offer quote, it is valid for 30 days. We want to make sure you enough time to finalize your decision and send us your device. If you need more time, contact us for an extension.</p>
+						</div>
+
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/calendar-icon.svg" alt="Calendar Icon">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i></div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-5" class="font-body" style="margin-bottom:15px;">5. How does shipping work?</h2>
+							<p class="answer-text">We will provide you with a FREE prepaid FedEx shipping label (insurance included) and shipping instructions.<br><a href="#" target="_blank">CLICK HERE</a> to view our shipping instructions.<br>
+							To find your nearest FedEx location to drop-off your package or to receieve professional shipping help, visit <a href="https://www.fedex.com/locate/" target="_blank">www.fedex.com/Locate</a>.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/shipping-box.svg" alt="Shipping Box">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i></div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-6" class="font-body" style="margin-bottom:15px;">6. How should I pack my item for shipping?</h2>
+							<p class="answer-text"><a href="#" target="_blank">CLICK HERE</a> to view our shipping instructions. To meet shipping insurance eligibility, packages must be shipped with 3-4 inches of padding on all sides. A secure, tightly packed box with no loose items will help prevent any damage to the equipment during shipment.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/shipping-box.svg" alt="Shipping Box">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i>
+						</div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-7" class="font-body" style="margin-bottom:15px;">7. Where can I go to ship my equipment?</h2>
+							<p class="answer-text">To find your nearest FedEx location to drop-off your package or to receieve professional shipping help, visit <a href="https://www.fedex.com/locate/" target="_blank">www.fedex.com/Locate</a>.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/fedex-logo.svg" alt="Fedex Logo">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i>
+						</div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-8" class="font-body" style="margin-bottom:15px;">8. How long is my shipping label good for?</h2>
+							<p class="answer-text">FedEx will accept your shipping label up to 30 days after the ship date listed on the label.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/calendar-icon.svg" alt="">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i></div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-9" class="font-body" style="margin-bottom:15px;">9. Can CashForCameras mail me a box for me to ship my equipment?</h2>
+							<p class="answer-text">At this time we are not mailing boxes. If you need shipping materials such as boxes, tape and bubble wrap, we highly recommend FedEx Office. To find your nearest FedEx Office or drop-off location, simply visit <a href="https://www.fedex.com/locate/" target="_blank">www.fedex.com/Locate</a> or call 1.800.GoFedEx</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/shipping-box.svg" alt="Shipping Box">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i></div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-10" class="font-body" style="margin-bottom:15px;">10. What happens if my equipment gets damaged when I ship it?</h2>
+							<p class="answer-text">All shipments are insured via Fedex, for 100% of your cash offer amount. If your equipment arrives broken or with major damage that you were not aware of, we will file a shipping insurance claim on your behalf and do everything we can to get you paid in FULL. CashForCameras will review how the item was packaged and will solely determine if your claim is eligible for payment. If your item was properly packaged, then the shipping insurance claim will be approved, and you will be paid in full for your original cash offer.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/shipping-in-transit.svg" alt="">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i>
+						</div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-11" class="font-body" style="margin-bottom:15px;">11. What happens if the equipment I am selling is determined to be “not as described” by CashForCameras?</h2>
+							<p class="answer-text">If your equipment is determined to be "not as described”, we will email you and tell you how it differs from your description. We will give you an updated quote based upon the actual condition. We will even include photos of any damage. Our costumers normally agree with our revised quote as we always strive to be absolutely fair. If you are not satisfied, we can return the item to you at no additional cost.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/mobile-email-icon.svg" alt="">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i>
+						</div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-12" class="font-body" style="margin-bottom:15px;">12. Can I trust your website?</h2>
+							<p class="answer-text">We have over 17 years of positive customer feedback. We have paid out over $1.75 Million Dollars to customers like you across America. Since 2002, we have earned over 5000 positive customer reviews! <a href="customer-reviews">CLICK HERE</a> to read some of our customer reviews.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/5-star-ratings-icon.svg" alt="">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i>
+						</div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-13" class="font-body" style="margin-bottom:15px;">13. Other than cameras, lenses, drone, and video equipment, are there any other products that cashForCameras is willing to buy?</h2>
+							<p class="answer-text">Yes! We also will buy your Macbook, MacBook Pro, Macbook Air, iMac, iMac Pro, Mac Pro, Mac Mini Desktops, iPad, iPhone, Apple Watch, and LG UltraFine Display. Please visit our website <a href="https://www.cashforyourmac.com/" target="_blank">CashForYourMac.com</a> for more information.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/cash-for-your-mac-logo-ill.png" alt="Cash For Your Mac Company Logo">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i>
+						</div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-14" class="font-body" style="margin-bottom:15px;">14. If another website offers me more cash for my equipment, will CashForCameras match the offer?</h2>
+							<p class="answer-text">Yes, We will do our best to match or beat offers from reputable camera buyers such as Adorama and B&H. Simply respond to our email offer with a copy of your higher offer. Please note we will not match eBay, Amazon or private party offers.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/price-match.svg" alt="Price Match Icon">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i>
+						</div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-15" class="font-body" style="margin-bottom:15px;">15. If my equipment is broken or not working, will CashForCameras still buy it?</h2>
+							<p class="answer-text">No, we do not purchase equipment that is broken or not working.</p>
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/broken-camera.svg" alt="broken camera icon">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i>
+						</div>
+
+						<div class="col-lg-7 col-md-6">
+							<h2 id="faq-16" class="font-body" style="margin-bottom:15px;">16. What if I change my mind and want my equipment back, after I have already shipped?</h2>
+							<p class="answer-text">As long as you have not yet receieved payment for your equipment, you can cancel the sale and request the return of your equipment. We will even cover the return shipping cost. Simply email us at <a href="mailto:support@cashforcameras.com" target="_top">support@cashforcameras.com</a> to arrange the return of your equipment.
+						</div>
+
+						<div class="col-lg-5 col-md-6">
+							<img src="images/shipping-in-transit-return.svg" alt="">
+						</div>
+
+						<div class="divider"><i class="icon-circle"></i>
+						</div>
+
+					</div>
+
+				</div>
+				<!-- #FAQ end -->
+
+    </div>
+
+  </section><!-- #content end -->
+
+	<!-- Footer
+============================================= -->
+	<footer id="footer" class="noborder text-light">
+
+		<div class="container clearfix">
+
+			<!-- Footer Widgets
+		============================================= -->
+			<div class="footer-widgets-wrap clearfix" style="padding: 60px 0 10px;">
+
+				<div class="row">
+
+					<div class="col-lg-5">
+
+						<!-- Logo
+					============================================= -->
+						<div>
+							<a href="https://www.cashforcameras.com/"><img src="images/cashforcameras-logo-footer.png" class="footer-logo" alt="Cash For Cameras Logo"></a>
+							<p class="footer-logo-text">We pay top dollar for your cameras,<br>
+							lenses, drones and video equipment.</p>
+						</div>
+
+					</div>
+
+					<div class="col-lg-7 col-md-6">
+
+						<div class="row clearfix">
+							<div class="col-lg-6">
+								<div class="widget widget_links clearfix">
+									<h4 class="text-light">Get Started</h4>
+									<ul>
+										<li><a href="https://www.cashforcameras.com/cash-offer-form/a/1">Cash Offer Form</a></li>
+										<li><a href="how-it-works">How it Works</a></li>
+										<li><a href="frequently-asked-questions">Frequently Asked Questions</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="widget widget_links clearfix">
+									<h4 class="text-light">Learn More</h4>
+									<ul>
+										<li><a href="customer-reviews">Customer Reviews</a></li>
+										<li><a href="about-us">About Us</a></li>
+										<li><a href="our-environmental-mission">Our Environmental Mission</a></li>
+										<li><a href="contact-us">Contact Us</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<div class="clear"></div>
+
+					</div>
+
+				</div>
+
+				<div class="row" style="margin-top: 135px;">
+
+					<div class="col-lg-8">
+
+						<!-- Social Media Links Column
+						============================================= -->
+
+						<!-- <div class="bottommargin-sm clearfix">
+							<a href="#" class="social-icon si-dark si-small si-rounded si-facebook" title="Facebook">
+								<i class="icon-facebook"></i>
+								<i class="icon-facebook"></i>
+							</a>
+
+							<a href="#" class="social-icon si-dark si-small si-rounded si-twitter" title="Twitter">
+								<i class="icon-twitter"></i>
+								<i class="icon-twitter"></i>
+							</a>
+
+							<a href="#" class="social-icon si-dark si-small si-rounded si-instagram" title="Instagram">
+								<i class="icon-instagram"></i>
+								<i class="icon-instagram"></i>
+							</a>
+
+							<a href="#" class="social-icon si-dark si-small si-rounded si-pinterest" title="Pinterest">
+								<i class="icon-pinterest"></i>
+								<i class="icon-pinterest"></i>
+							</a>
+
+							<a href="#" class="social-icon si-dark si-small si-rounded si-vimeo" title="Vimeo">
+								<i class="icon-vimeo"></i>
+								<i class="icon-vimeo"></i>
+							</a>
+						</div> -->
+
+					</div>
+
+					<div class="col-lg-4">
+
+						<p style="padding: 10px 50px 0 0;"><a href="privacy-policy" id="priv-term-text">Privacy Policy</a> | <a href="terms-and-conditions" id="priv-term-text">Terms and Conditions</a></p>
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!-- .footer-widgets-wrap end -->
+
+</div>
+
+</footer><!-- #footer end -->
+
+	</div><!-- #wrapper end -->
+
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="icon-angle-up"></div>
+
+	<!-- External JavaScripts
+	============================================= -->
+	<script src="js/jquery.js"></script>
+	<script src="js/plugins.js"></script>
+
+  /* NEW */
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js" integrity="sha256-dHf/YjH1A4tewEsKUSmNnV05DDbfGN3g7NMq86xgGh8=" crossorigin="anonymous"></script>
+  <script src="contact.js"></script>
+
+	<!-- Footer Scripts
+	============================================= -->
+	<script src="js/functions.js"></script>
+
+</body>
+</html>

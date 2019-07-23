@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="SemiColonWeb" />
+
+	<!-- Stylesheets
+	============================================= -->
+	<link href="https://fonts.googleapis.com/css?family=Caveat:400,700|Encode+Sans+Expanded:200,300,400,500,600,700|Nunito:300,400,600,700|Kodchasan:200,300,400,500|Mallanna|Mukta:200,300,400,500,600,700,800|Quicksand:300,400,500,700|Sirin+Stencil|Syncopate:400,700|Varela+Round" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="stylesheet" href="css/dark.css" type="text/css" />
+	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="css/animate.css" type="text/css" />
+	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+
+
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<!-- Favicon
+	============================================= -->
+	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+	<link rel="manifest" href="site.webmanifest">
+	<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+
+	<!-- Document Title
+	============================================= -->
+	<title>Our Environmental Mission - CashForCameras.com - Top Dollar for Your Equipment</title>
+
+</head>
+
+<body class="stretched overlay-menu">
+
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
+
+		<!-- Header
+		============================================= -->
+		<header id="header" class="transparent-header">
+
+			<div id="header-wrap">
+
+				<div class="container clearfix">
+
+					<div id="primary-menu-trigger"><i class="icon-line-menu"></i></div>
+
+					<!-- Logo
+					============================================= -->
+					<div id="logo">
+						<a href="https://www.cashforcameras.com/" class="standard-logo"><img src="images/cashforcameras-logo.png" alt="CashForCameras Logo"></a>
+						<a href="https://www.cashforcameras.com/" class="retina-logo"><img src="images/cashforcameras-logo.png" alt="CashForCameras Logo"></a>
+					</div><!-- #logo end -->
+
+					<!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu">
+
+						<ul>
+							<li><a href="https://www.cashforcameras.com/">
+									<div>Home</div>
+								</a></li>
+							<li><a href="https://www.cashforcameras.com/cash-offer-form/a/1">
+									<div>Cash Offer Form</div>
+								</a></li>
+							<li><a href="how-it-works">
+									<div>How it Works</div>
+								</a></li>
+							<li><a href="frequently-asked-questions">
+									<div>Frequently Asked Questions</div>
+								</a></li>
+							<li><a href="customer-reviews">
+									<div>Customer Reviews</div>
+								</a></li>
+							<li><a href="about-us">
+									<div>About Us</div>
+								</a></li>
+							<li class="current"><a href="our-environmental-mission">
+									<div>Our Environmental Mission</div>
+								</a></li>
+							<li><a href="contact-us">
+									<div>Contact Us</div>
+								</a></li>
+						</ul>
+
+						<a href="#" id="overlay-menu-close" class="d-none d-lg-block"><i class="icon-line-cross" id="x-to-close"></i></a>
+
+					</nav><!-- #primary-menu end -->
+
+				</div>
+
+			</div>
+
+		</header><!-- #header end -->
+
+    <!-- Page Title
+		============================================= -->
+		<section id="page-title" class="page-title-parallax page-title-light page-title-video">
+
+			<div class="video-wrap">
+				<video poster="images/videos/world-of-people.jpg" preload="auto" autoplay muted>
+					<source src='images/videos/world-of-people.mov' type='video/mp4' />
+					<!-- <source src='images/videos/explore.webm' type='video/webm' /> -->
+				</video>
+				<div class="video-overlay" style="background-color: rgb(255, 255, 255,0.80);">
+        </div>
+			</div>
+
+			<div class="container clearfix center">
+				<h1 id="page-title-env-mis">Our Environmental Mission</h1>
+        <p id="mission-text">To offer a sustainable and eco-friendly way to sell your equipment.
+        </p>
+				<!-- <span>Together we can help reduce the environmental impact of consumer electronics.</span> -->
+			</div>
+
+		</section><!-- #page-title end -->
+
+    <!-- Content
+  ============================================= -->
+
+  <section id="content">
+
+			<div id="env-main-div">
+
+				<div class="container clearfix">
+
+        <div class="clear"></div>
+
+      					<div class="col_half topmargin bottommargin" style="padding-top: 30px;">
+
+      						<h3>By selling your equipment to CashForCameras, you will help us to:</h3>
+
+      						<ul class="iconlist iconlist-large iconlist-color">
+      							<li><i class="icon-ok-sign green"></i> Reduce the electronic waste reaching our landfills.</li>
+      							<li><i class="icon-ok-sign green"></i> Reduce air pollution from new device manufacturing.</li>
+      							<li><i class="icon-ok-sign green"></i> Conserve our planet’s valuable natural resources.</li>
+      						</ul>
+
+                  <p>We responsibly re-use all shipping materials that are sent to us. When necessary, we purchase recycled and bio-degradable packaging materials. All usable device hardware is salvaged, inspected, tested and re-used. Unusable glass, metal and components are properly sorted and recycled.</p>
+
+      					</div>
+
+      					<div class="col_half col_last">
+
+      						<img src="images/people-forming-recycle-symbol.jpg" alt="Many people forming the recycle icon shape" style="position: center;">
+
+      					</div>
+
+                </div>
+                </div>
+                </div>
+
+  <!-- #content end -->
+
+	<!-- Footer
+============================================= -->
+	<footer id="footer" class="noborder text-light">
+
+		<div class="container clearfix">
+
+			<!-- Footer Widgets
+		============================================= -->
+			<div class="footer-widgets-wrap clearfix" style="padding: 60px 0 10px;">
+
+				<div class="row">
+
+					<div class="col-lg-5">
+
+						<!-- Logo
+					============================================= -->
+						<div>
+							<a href="https://www.cashforcameras.com/"><img src="images/cashforcameras-logo-footer.png" class="footer-logo" alt="Cash For Cameras Logo"></a>
+							<p class="footer-logo-text">We pay top dollar for your cameras,<br>
+							lenses, drones and video equipment.</p>
+						</div>
+
+					</div>
+
+					<div class="col-lg-7 col-md-6">
+
+						<div class="row clearfix">
+							<div class="col-lg-6">
+								<div class="widget widget_links clearfix">
+									<h4 class="text-light">Get Started</h4>
+									<ul>
+										<li><a href="https://www.cashforcameras.com/cash-offer-form/a/1">Cash Offer Form</a></li>
+										<li><a href="how-it-works">How it Works</a></li>
+										<li><a href="frequently-asked-questions">Frequently Asked Questions</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="widget widget_links clearfix">
+									<h4 class="text-light">Learn More</h4>
+									<ul>
+										<li><a href="customer-reviews">Customer Reviews</a></li>
+										<li><a href="about-us">About Us</a></li>
+										<li><a href="our-environmental-mission">Our Environmental Mission</a></li>
+										<li><a href="contact-us">Contact Us</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<div class="clear"></div>
+
+						<!-- <div class="line line-sm"></div>
+
+					<div class="copy-link"><a href="mailto:noreply@canvas.com"><i class="icon-envelope2"></i>  info@canvas.com</a> <span class="middot"> | </span> <a href="tel:+91-11-6541-6369"><i class="icon-headphones"></i> +91-11-6541-6369</a> <span class="middot"> | </span> <a href="skype:CanvasOnSkype?call"><i class="icon-skype2"></i> CanvasOnSkype</a></div> -->
+
+					</div>
+
+				</div>
+
+				<div class="row" style="margin-top: 135px;">
+
+					<div class="col-lg-8">
+
+						<!-- Social Media Links Column
+						============================================= -->
+
+						<!-- <div class="bottommargin-sm clearfix">
+							<a href="#" class="social-icon si-dark si-small si-rounded si-facebook" title="Facebook">
+								<i class="icon-facebook"></i>
+								<i class="icon-facebook"></i>
+							</a>
+
+							<a href="#" class="social-icon si-dark si-small si-rounded si-twitter" title="Twitter">
+								<i class="icon-twitter"></i>
+								<i class="icon-twitter"></i>
+							</a>
+
+							<a href="#" class="social-icon si-dark si-small si-rounded si-instagram" title="Instagram">
+								<i class="icon-instagram"></i>
+								<i class="icon-instagram"></i>
+							</a>
+
+							<a href="#" class="social-icon si-dark si-small si-rounded si-pinterest" title="Pinterest">
+								<i class="icon-pinterest"></i>
+								<i class="icon-pinterest"></i>
+							</a>
+
+							<a href="#" class="social-icon si-dark si-small si-rounded si-vimeo" title="Vimeo">
+								<i class="icon-vimeo"></i>
+								<i class="icon-vimeo"></i>
+							</a>
+						</div> -->
+
+					</div>
+
+					<div class="col-lg-4">
+
+						<p style="padding: 10px 50px 0 0;"><a href="privacy-policy" id="priv-term-text">Privacy Policy</a> | <a href="terms-and-conditions" id="priv-term-text">Terms and Conditions</a></p>
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!-- .footer-widgets-wrap end -->
+
+</div>
+
+</footer><!-- #footer end -->
+
+	</div><!-- #wrapper end -->
+
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="icon-angle-up"></div>
+
+	<!-- External JavaScripts
+	============================================= -->
+	<script src="js/jquery.js"></script>
+	<script src="js/plugins.js"></script>
+
+	<!-- Footer Scripts
+	============================================= -->
+	<script src="js/functions.js"></script>
+
+</body>
+</html>

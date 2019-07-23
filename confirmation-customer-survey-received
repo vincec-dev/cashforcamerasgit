@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+
+<head>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="SemiColonWeb" />
+
+	<!-- Stylesheets
+	============================================= -->
+	<link href="https://fonts.googleapis.com/css?family=Encode+Sans+Expanded:200,300,400,500,600,700|Nunito:300,400,600,700|Kodchasan:200,300,400,500|Mallanna|Mukta:200,300,400,500,600,700,800|Quicksand:300,400,500,700|Sirin+Stencil|Syncopate:400,700|Varela+Round|Montserrat:100,200,300,400,500,600,700,800,900"
+	  rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="stylesheet" href="css/dark.css" type="text/css" />
+	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="css/animate.css" type="text/css" />
+	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<!-- Favicon
+	============================================= -->
+	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+	<link rel="manifest" href="site.webmanifest">
+	<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+
+	<!-- Document Title
+	============================================= -->
+	<title>Confirmation: Customer Survey Received</title>
+
+</head>
+
+<body class="stretched overlay-menu">
+
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
+
+		<!-- Header
+		============================================= -->
+		<header id="header" class="transparent-header">
+
+			<div id="header-wrap">
+
+				<div class="container clearfix">
+
+					<div id="primary-menu-trigger"><i class="icon-line-menu"></i></div>
+
+					<!-- Logo
+					============================================= -->
+					<div id="logo">
+						<a href="./" class="standard-logo"><img src="images/cashforcameras-logo.png" alt="CashForCameras Logo"></a>
+						<a href="./" class="retina-logo"><img src="images/cashforcameras-logo.png" alt="CashForCameras Logo"></a>
+					</div><!-- #logo end -->
+
+					<!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu">
+
+						<ul>
+							<li><a href="./">
+									<div>Home</div>
+								</a></li>
+							<li><a href="cash-offer-form/a/1">
+									<div>Cash Offer Form</div>
+								</a></li>
+							<li><a href="how-it-works">
+									<div>How it Works</div>
+								</a></li>
+							<li><a href="frequently-asked-questions">
+									<div>Frequently Asked Questions</div>
+								</a></li>
+							<li><a href="customer-reviews">
+									<div>Customer Reviews</div>
+								</a></li>
+							<li><a href="about-us">
+									<div>About Us</div>
+								</a></li>
+							<li><a href="our-environmental-mission">
+									<div>Our Environmental Mission</div>
+								</a></li>
+							<li><a href="contact-us">
+									<div>Contact Us</div>
+								</a></li>
+						</ul>
+
+						<a href="#" id="overlay-menu-close" class="d-none d-lg-block"><i class="icon-line-cross" id="x-to-close"></i></a>
+
+					</nav><!-- #primary-menu end -->
+
+				</div>
+
+			</div>
+
+		</header><!-- #header end -->
+
+    <!-- Page Title
+		============================================= -->
+    <section id="page-title" class="" style="background: url('images/about-us-title-bg.svg') bottom no-repeat; background-size: contain;">
+
+      <div class="center" id="page-title-about">
+        <h1 style="margin-bottom: 10px;">Confirmation</h1>
+			</div>
+    </section><!-- #page-title end -->
+
+    <!-- Content
+  ============================================= -->
+
+    <section id="content">
+
+      <div class="content-wrap">
+
+        <div class="container clearfix" id="conf-msg-div">
+
+          <div class="alert alert-success mb-3">
+  						  <i class="icon-thumbs-up"></i><strong>Confirmation:</strong> Customer survery recevied.</a>
+  				</div>
+
+          <div class="style-msg2" style="background-color: #EEE;">
+							<div class="msgtitle">Thank you!</div>
+							<div class="sb-msg">
+								<ul>
+                  <li>We appreciate your time and feedback.</li>
+								</ul>
+							</div>
+						</div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+		<!-- Footer
+	============================================= -->
+		<footer id="footer" class="noborder text-light">
+
+			<div class="container clearfix">
+
+				<!-- Footer Widgets
+			============================================= -->
+				<div class="footer-widgets-wrap clearfix" style="padding: 60px 0 10px;">
+
+					<div class="row">
+
+						<div class="col-lg-5">
+
+							<!-- Logo
+						============================================= -->
+							<div>
+								<a href="./"><img src="images/cashforcameras-logo-footer.png" class="footer-logo" alt="Cash For Cameras Logo"></a>
+								<p class="footer-logo-text">We pay top dollar for your cameras,<br>
+									lenses, drones and video equipment.</p>
+							</div>
+
+						</div>
+
+						<div class="col-lg-7 col-md-6">
+
+							<div class="row clearfix">
+								<div class="col-lg-6">
+									<div class="widget widget_links clearfix">
+										<h4 class="text-light">Get Started</h4>
+										<ul>
+											<li><a href="cash-offer-form/a/1">Cash Offer Form</a></li>
+											<li><a href="how-it-works">How it Works</a></li>
+											<li><a href="frequently-asked-questions">Frequently Asked Questions</a></li>
+										</ul>
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="widget widget_links clearfix">
+										<h4 class="text-light">Learn More</h4>
+										<ul>
+											<li><a href="customer-reviews">Customer Reviews</a></li>
+											<li><a href="about-us">About Us</a></li>
+											<li><a href="our-environmental-mission">Our Environmental Mission</a></li>
+											<li><a href="contact-us">Contact Us</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+							<div class="clear"></div>
+
+						</div>
+
+					</div>
+
+					<div class="row" style="margin-top: 135px;">
+
+						<!-- Social Media Links Column
+						============================================= -->
+
+						<div class="col-lg-8">
+
+							<!-- <div class="bottommargin-sm clearfix">
+								<a href="#" class="social-icon si-dark si-small si-rounded si-facebook" title="Facebook">
+									<i class="icon-facebook"></i>
+									<i class="icon-facebook"></i>
+								</a>
+
+								<a href="#" class="social-icon si-dark si-small si-rounded si-twitter" title="Twitter">
+									<i class="icon-twitter"></i>
+									<i class="icon-twitter"></i>
+								</a>
+
+								<a href="#" class="social-icon si-dark si-small si-rounded si-instagram" title="Instagram">
+									<i class="icon-instagram"></i>
+									<i class="icon-instagram"></i>
+								</a>
+
+								<a href="#" class="social-icon si-dark si-small si-rounded si-pinterest" title="Pinterest">
+									<i class="icon-pinterest"></i>
+									<i class="icon-pinterest"></i>
+								</a>
+
+								<a href="#" class="social-icon si-dark si-small si-rounded si-vimeo" title="Vimeo">
+									<i class="icon-vimeo"></i>
+									<i class="icon-vimeo"></i>
+								</a>
+							</div> -->
+
+						</div>
+
+						<div class="col-lg-4">
+
+							<p style="padding: 10px 50px 0 0;"><a href="#" id="priv-term-text">Privacy Policy</a> | <a href="#" id="priv-term-text">Terms of Service</a> | <a href="#" id="priv-term-text">Sitemap</a></p>
+
+						</div>
+
+					</div>
+				</div>
+
+			</div><!-- .footer-widgets-wrap end -->
+
+	</div>
+
+	</footer><!-- #footer end -->
+
+	</div><!-- #wrapper end -->
+
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="icon-angle-up"></div>
+
+	<!-- External JavaScripts
+	============================================= -->
+	<script src="js/jquery.js"></script>
+	<script src="js/plugins.js"></script>
+
+	<!-- Footer Scripts
+	============================================= -->
+	<script src="js/functions.js"></script>
+
+</body>
+
+</html>

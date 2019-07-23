@@ -1,0 +1,781 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+
+<head>
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="SemiColonWeb" />
+
+  <!-- Stylesheets
+	============================================= -->
+  <link href="https://fonts.googleapis.com/css?family=Encode+Sans+Expanded:200,300,400,500,600,700|Nunito:300,400,600,700|Kodchasan:200,300,400,500|Mallanna|Cantarell|Istok+Web:700|Mukta:200,300,400,500,600,700,800|Quicksand:300,400,500,700|Sirin+Stencil|Syncopate:400,700|Varela+Round" rel="stylesheet"
+    type="text/css">
+  <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="style.css" type="text/css" />
+  <link rel="stylesheet" href="css/dark.css" type="text/css" />
+  <link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+  <link rel="stylesheet" href="css/animate.css" type="text/css" />
+  <link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+
+
+  <link rel="stylesheet" href="css/responsive.css" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Favicon
+	============================================= -->
+	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+	<link rel="manifest" href="site.webmanifest">
+	<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+
+  <!-- Document Title
+	============================================= -->
+  <title>Customer Reviews - CashForCameras.com - Top Dollar for Your Equipment</title>
+
+</head>
+
+<body class="stretched overlay-menu">
+
+  <!-- Document Wrapper
+	============================================= -->
+  <div id="wrapper" class="clearfix">
+
+    <!-- Header
+		============================================= -->
+    <header id="header" class="transparent-header">
+
+      <div id="header-wrap">
+
+        <div class="container clearfix">
+
+          <div id="primary-menu-trigger"><i class="icon-line-menu"></i></div>
+
+          <!-- Logo
+					============================================= -->
+					<div id="logo">
+						<a href="https://www.cashforcameras.com/" class="standard-logo"><img src="images/cashforcameras-logo.png" alt="CashForCameras Logo"></a>
+						<a href="https://www.cashforcameras.com/" class="retina-logo"><img src="images/cashforcameras-logo.png" alt="CashForCameras Logo"></a>
+					</div><!-- #logo end -->
+
+          <!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu">
+
+						<ul>
+							<li><a href="https://www.cashforcameras.com/">
+									<div>Home</div>
+								</a></li>
+							<li><a href="https://www.cashforcameras.com/cash-offer-form/a/1">
+									<div>Cash Offer Form</div>
+								</a></li>
+							<li><a href="how-it-works">
+									<div>How it Works</div>
+								</a></li>
+							<li><a href="frequently-asked-questions">
+									<div>Frequently Asked Questions</div>
+								</a></li>
+							<li class="current"><a href="customer-reviews">
+									<div>Customer Reviews</div>
+								</a></li>
+							<li><a href="about-us">
+									<div>About Us</div>
+								</a></li>
+							<li><a href="our-environmental-mission">
+									<div>Our Environmental Mission</div>
+								</a></li>
+							<li><a href="contact-us">
+									<div>Contact Us</div>
+								</a></li>
+						</ul>
+
+						<a href="#" id="overlay-menu-close" class="d-none d-lg-block"><i class="icon-line-cross" id="x-to-close"></i></a>
+
+					</nav><!-- #primary-menu end -->
+
+        </div>
+
+      </div>
+
+    </header><!-- #header end -->
+
+    <!-- Page Title
+		============================================= -->
+    <section id="page-title" class="page-title-parallax page-title-light page-title-video">
+
+      <div class="video-wrap">
+        <video poster="images/videos/typing.jpg" preload="auto" autoplay muted>
+					<source src='images/videos/typing.mp4' type='video/mp4' />
+				</video>
+        <div class="video-overlay" style="background-color: rgb(255, 255, 255,0.90);">
+        </div>
+      </div>
+
+      <div class="container clearfix">
+        <h1>Customer Reviews</h1><br>
+        <p class="page-title-sub">Over the last 17 years, we are proud to have earned over 5,000 5-Star reviews, from Ebay, Google, Yelp, and the Better Business Bureau.</p>
+			</div>
+
+    </section><!-- #page-title end -->
+
+    <!-- Content
+  ============================================= -->
+
+    <section id="content my-5">
+
+      <div class="content-wrap">
+
+        <div class="clearfix">
+
+          <!-- Ebay Reviews
+        ============================================= -->
+          <div class="container">
+            <div class="fancy-title title-dotted-border">
+              <h1 class="ebay-font"><span style="color: #E53238">e</span><span style="color: #0064D3">b</span><span style="color: #F5AF02">a</span><span style="color: #86B817">y</span><h1><h2>&nbsp;&nbsp; 4,980+ Reviews</h2>
+            </div>
+
+            <div class="clear"></div>
+
+            <div id="oc-testimonials" class="owl-carousel center testimonials-carousel testimonial-full carousel-widget" data-margin="0" data-items-xs="1" data-items-sm="1" data-items-md="1" data-items-lg="2" data-items-xl="3" data-center="true" data-loop="true" data-autoplay="8000" data-speed="1200">
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/ebay-bag-icon.png" alt="Ebay Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Fast and easy transaction!! Great to deal with!! HIGHLY RECOMMENDED! Awesome!</p>
+                    <span class="ebay-meta">- ebay Review</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/ebay-bag-icon.png" alt="Ebay Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Smooth transaction! Would definitely do business with again!</p>
+                    <span class="ebay-meta">- ebay Review</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/ebay-bag-icon.png" alt="Ebay Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Not enough space allowed to explain my happiness. Everything as advertised.</p>
+                    <span class="ebay-meta">- ebay Review</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/ebay-bag-icon.png" alt="Ebay Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Great customer service when solving a problem. Fast & professional communication.</p>
+                    <span class="ebay-meta">- ebay Review</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/ebay-bag-icon.png" alt="Ebay Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Very professional. I will do business with them again in the future.</p>
+                    <span class="ebay-meta">- ebay Review</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/ebay-bag-icon.png" alt="Ebay Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Lived up to their reputation. First class service.</p>
+                    <span class="ebay-meta">- ebay Review</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/ebay-bag-icon.png" alt="Ebay Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">A+++ Greatest customer service. Highly recommended.</p>
+                    <span class="ebay-meta">- ebay Review</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/ebay-bag-icon.png" alt="Ebay Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Great retailer!! Communication and punctuality were A++!	</p>
+                    <span class="ebay-meta">- ebay Review</span>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <!-- Google Reviews
+        ============================================= -->
+          <div class="container">
+            <div class="fancy-title title-dotted-border">
+              <h1 class="google-font"><span style="color: #4285F4">G</span><span style="color: #DB4437">o</span><span style="color: #F4B400">o</span><span style="color: #4285F4">g</span><span style="color: #0F9D58">l</span><span style="color: #DB4437">e</span><h1><h2>&nbsp;&nbsp; 190+ Reviews</h2>
+            </div>
+
+            <div class="clear"></div>
+
+            <div id="oc-testimonials" class="owl-carousel center testimonials-carousel testimonial-full carousel-widget" data-margin="0" data-items-xs="1" data-items-sm="1" data-items-md="1" data-items-lg="2" data-items-xl="3" data-center="true" data-loop="true" data-autoplay="16000" data-speed="1200">
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/google.png" alt="Google Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">The best and only place where you will get the most money out of your electronic device! The best in the market! Also, reliable, trustworthy with efficiency when processing your funds into your account!</p>
+                    <div class="testi-meta">
+                      Adrian Aragon
+                      <span>Google Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/google.png" alt="Google Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Was a little worried after hearing these stories online of company’s taking the merch and claiming it was lost or damaged upon delivery... but these guys are the real deal. I got exactly what they quoted me
+                      (which was higher than what their competitors offered me), I got my payment faster than they said I would.</p>
+                    <div class="testi-meta">
+                      Ryan breault
+                      <span>Google Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/google.png" alt="Google Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">I’ve sold items on 4 or 5 occasions and every time I’ve had expedited service, quick email replies and on one occasion I changed my payment type last second and they understood and switched it. This most recent time they sent my overnight payment to my work address...a request I made minutes after they mailed the check. Well they tracked down the driver and re sent the check!!! I’m amazed. Thanks guys!</p>
+                    <div class="testi-meta">
+                      Ryan Morcom
+                      <span>Google Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/google.png" alt="Google Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Customer service responded quickly and was polite. The price guaranteed based on my selected condition was honored and I received payment soon after it was inspected. Great service overall!</p>
+                    <div class="testi-meta">
+                      Michael Carrier
+                      <span>Google Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/google.png" alt="Google Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">This place was awesome gave me top dollar on my stuff. It was all basically brand new and other places were low balling me. Quick responses on emails and the even helped out when I made the mistakes. Made the
+                      process easy.</p>
+                    <div class="testi-meta">
+                      Ed g
+                      <span>Google Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/google.png" alt="Google Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">I received the highest cash offer than from any other site. It was easy to fill out the fields and got a response almost instantly. I will use them again.</p>
+                    <div class="testi-meta">
+                      Ronald Riehs
+                      <span>Google Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/google.png" alt="Google Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Really easy to work with. They gave the most honest / best price, sent a shipping label within minutes, and paid on time. Couldn't be happier. In an industry where there are so many scam artists, these guys are
+                      legit.</p>
+                    <div class="testi-meta">
+                      Joshua Fruhlinger
+                      <span>Google Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/google.png" alt="Google Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">They are very fair and honest. I have used them 3 times and each time they have given me what they quoted and in a very timely manner! Highly recommend!</p>
+                    <div class="testi-meta">
+                      Gail Brandt
+                      <span>Google Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <!-- Yelp Reviews
+        ============================================= -->
+          <div class="container">
+            <div class="fancy-title title-dotted-border">
+              <h1 class="yelp-font">yelp<h1><h2>&nbsp;&nbsp; 75+ Reviews</h2>
+            </div>
+
+            <div class="clear"></div>
+
+            <div id="oc-testimonials" class="owl-carousel center testimonials-carousel testimonial-full carousel-widget" data-margin="0" data-items-xs="1" data-items-sm="1" data-items-md="1" data-items-lg="2" data-items-xl="3" data-center="true" data-loop="true" data-autoplay="16000" data-speed="1200">
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/yelp-burst.png" alt="Yelp Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">In all honesty, this is one of the best customer experiences I've had in a long time. They are a very transparent and honest business with a heavy emphasis on delivering the absolute best customer service possible. Everyone working there is a delight, and much of that starts with tremendous leadership from manager Mathew Rickey. The positivity & energy there is almost infectious! </p>
+                    <div class="testi-meta">
+                      Raul G.
+                      <span>yelp Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/yelp-burst.png" alt="Yelp Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">This place is amazing! I've been emailing a ton of businesses and they, by far, have been the most responsive, most reasonable, and friendliest.</p>
+                    <div class="testi-meta">
+                      Nay V.
+                      <span>yelp Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/yelp-burst.png" alt="Yelp Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Knowledgeable, friendly service!  I knew what I wanted, got great advice, and everything was geared toward my saving money. Great store!</p>
+                    <div class="testi-meta">
+                      Mike B.
+                      <span>yelp Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/yelp-burst.png" alt="Yelp Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">I called these guys late on a Friday and Matt still took the time to chat with me patiently, answering all my questions. When I went in to follow up he knew exactly who I was and honored the price he quoted me. Two other people helped me go through the packaging and check out. These guys are my new 'go-to.'</p>
+                    <div class="testi-meta">
+                      Remy H.
+                      <span>yelp Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/yelp-burst.png" alt="Yelp Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">This is my all time favorite electronic trading company. For years I used numerous services and there were always issues regarding a trade-in and the timeliness of compensation. My actions speak for themselves.</p>
+                    <div class="testi-meta">
+                      John S.
+                      <span>yelp Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/yelp-burst.png" alt="Yelp Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">!! The best customer service anywhere! They really take the time here to help you out and they know their stuff !!! Great and informative staff! You will find what you need!</p>
+                    <div class="testi-meta">
+                      Amber P.
+                      <span>yelp Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/yelp-burst.png" alt="Yelp Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Amazing is the word to describe this place!!! Hands down probably the best customer service I have ever gotten at any store tech store.</p>
+                    <div class="testi-meta">
+                      Edwin C.
+                      <span>yelp Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/yelp-burst.png" alt="Yelp Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Came to these guys after a bad craigslist experience, and felt they went above and beyond to help me and my family out. The triple Matt crew was super friendly and my daughter stole their hearts. Thanks guys!</p>
+                    <div class="testi-meta">
+                      Mitch C.
+                      <span>yelp Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <!-- BBB Reviews
+        ============================================= -->
+          <div class="container">
+            <div class="fancy-title title-dotted-border">
+              <h1 class="bbb-font">Better Business Bureau<h1><h2>&nbsp;&nbsp; 35+ Reviews</h2>
+            </div>
+
+            <div class="clear"></div>
+
+            <div id="oc-testimonials" class="owl-carousel center testimonials-carousel testimonial-full carousel-widget" data-margin="0" data-items-xs="1" data-items-sm="1" data-items-md="1" data-items-lg="2" data-items-xl="3" data-center="true" data-loop="true" data-autoplay="14000" data-speed="1200">
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/bbb-icon.png" alt="Better Business Bureau Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Great customer service and communication! I enjoyed doing business with Matt and they give the best deals for your equipment!! I feel like they treat their customers like family.</p>
+                    <div class="testi-meta">
+                      Recardo T.
+                      <span>Better Business Bureau Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/bbb-icon.png" alt="Better Business Bureau Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Very fast service , was very truthfully on A review and cash payment</p>
+                    <div class="testi-meta">
+                    James C.
+                      <span>Better Business Bureau Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/bbb-icon.png" alt="Better Business Bureau Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">This process was so easy! I just packed up my stuff and sent it off and two days later they mailed me a check. It was fast and friendly.</p>
+                    <div class="testi-meta">
+                      L. S.
+                      <span>Better Business Bureau Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/bbb-icon.png" alt="Better Business Bureau Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Great service and handled promptly and as promised. Would do business with them again in a heartbeat. </p>
+                    <div class="testi-meta">
+                      A. L.
+                      <span>Better Business Bureau Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/bbb-icon.png" alt="Better Business Bureau Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">The best and only place where you will get the most money out of your electronic device! The best in the market! Also, reliable, trustworthy with efficiency when processing your funds into your account!</p>
+                    <div class="testi-meta">
+                      Adrian Aragon
+                      <span>Better Business Bureau Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/bbb-icon.png" alt="Better Business Bureau Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Got a competitive price. No hassles. Timely proactive communication. Thanks</p>
+                    <div class="testi-meta">
+                      J. c.
+                      <span>Better Business Bureau Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/bbb-icon.png" alt="Better Business Bureau Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">Top notch company! From the initial quote to depositing the check in the bank, the entire transaction was flawless!</p>
+                    <div class="testi-meta">
+                      Ken J.
+                      <span>Better Business Bureau Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="oc-item">
+                <div class="testimonial p-4 noborder noshadow">
+                  <div class="testi-image">
+                    <img src="images/testimonials/bbb-icon.png" alt="Better Business Bureau Icon">
+                  </div>
+                  <div class="testi-content">
+                    <p id="testi-text">This transaction could not have gone better. I filled out the online estimate form, got the shipping label from them, shipped, they tested it & gave me the full amount. All this took less than a week. I highly recommend this excellent company! They truly deserve their A+ rating!</p>
+                    <div class="testi-meta">
+                      Squid
+                      <span>Better Business Bureau Review</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- #content end -->
+
+    <!-- Footer
+  ============================================= -->
+  	<footer id="footer" class="noborder text-light">
+
+  		<div class="container clearfix">
+
+  			<!-- Footer Widgets
+  		============================================= -->
+  			<div class="footer-widgets-wrap clearfix" style="padding: 60px 0 10px;">
+
+  				<div class="row">
+
+  					<div class="col-lg-5">
+
+  						<!-- Logo
+  					============================================= -->
+  						<div>
+  							<a href="https://www.cashforcameras.com/"><img src="images/cashforcameras-logo-footer.png" class="footer-logo" alt="Cash For Cameras Logo"></a>
+  							<p class="footer-logo-text">We pay top dollar for your cameras,<br>
+  							lenses, drones and video equipment.</p>
+  						</div>
+
+  					</div>
+
+  					<div class="col-lg-7 col-md-6">
+
+  						<div class="row clearfix">
+  							<div class="col-lg-6">
+  								<div class="widget widget_links clearfix">
+  									<h4 class="text-light">Get Started</h4>
+  									<ul>
+  										<li><a href="https://www.cashforcameras.com/cash-offer-form/a/1">Cash Offer Form</a></li>
+  										<li><a href="how-it-works">How it Works</a></li>
+  										<li><a href="frequently-asked-questions">Frequently Asked Questions</a></li>
+  									</ul>
+  								</div>
+  							</div>
+  							<div class="col-lg-6">
+  								<div class="widget widget_links clearfix">
+  									<h4 class="text-light">Learn More</h4>
+  									<ul>
+  										<li><a href="customer-reviews">Customer Reviews</a></li>
+  										<li><a href="about-us">About Us</a></li>
+                      <li><a href="our-environmental-mission">Our Environmental Mission</a></li>
+  										<li><a href="contact-us">Contact Us</a></li>
+  									</ul>
+  								</div>
+  							</div>
+  						</div>
+
+  						<div class="clear"></div>
+
+  					</div>
+
+  				</div>
+
+  				<div class="row" style="margin-top: 135px;">
+
+  					<div class="col-lg-8">
+
+              <!-- Social Media Links Column
+  						============================================= -->
+
+  						<!-- <div class="bottommargin-sm clearfix">
+  							<a href="#" class="social-icon si-dark si-small si-rounded si-facebook" title="Facebook">
+  								<i class="icon-facebook"></i>
+  								<i class="icon-facebook"></i>
+  							</a>
+
+  							<a href="#" class="social-icon si-dark si-small si-rounded si-twitter" title="Twitter">
+  								<i class="icon-twitter"></i>
+  								<i class="icon-twitter"></i>
+  							</a>
+
+  							<a href="#" class="social-icon si-dark si-small si-rounded si-instagram" title="Instagram">
+  								<i class="icon-instagram"></i>
+  								<i class="icon-instagram"></i>
+  							</a>
+
+  							<a href="#" class="social-icon si-dark si-small si-rounded si-pinterest" title="Pinterest">
+  								<i class="icon-pinterest"></i>
+  								<i class="icon-pinterest"></i>
+  							</a>
+
+  							<a href="#" class="social-icon si-dark si-small si-rounded si-vimeo" title="Vimeo">
+  								<i class="icon-vimeo"></i>
+  								<i class="icon-vimeo"></i>
+  							</a>
+  						</div> -->
+
+  					</div>
+
+  					<div class="col-lg-4">
+
+  						<p style="padding: 10px 50px 0 0;"><a href="privacy-policy" id="priv-term-text">Privacy Policy</a> | <a href="terms-and-conditions" id="priv-term-text">Terms and Conditions</a></p>
+
+  					</div>
+
+  				</div>
+  			</div>
+
+  		</div><!-- .footer-widgets-wrap end -->
+
+  </div>
+
+  </footer><!-- #footer end -->
+
+  </div><!-- #wrapper end -->
+
+  <!-- Go To Top
+	============================================= -->
+  <div id="gotoTop" class="icon-angle-up"></div>
+
+  <!-- External JavaScripts
+	============================================= -->
+  <script src="js/jquery.js"></script>
+  <script src="js/plugins.js"></script>
+
+  <!-- Footer Scripts
+	============================================= -->
+  <script src="js/functions.js"></script>
+
+</body>
+
+</html>
