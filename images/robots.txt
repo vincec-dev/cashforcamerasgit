@@ -1,0 +1,26 @@
+User-Agent: *
+Disallow: 
+Disallow: /cash-offer-form/
+Allow: /cash-offer-form/a/1
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /refer/
+Disallow: /confirmation-adjusted-cash-offer-accepted
+Disallow: /confirmation-adjusted-cash-offer-rejected
+Disallow: /confirmation-business-check-payment-selected
+Disallow: /confirmation-cash-offer-accepted
+Disallow: /confirmation-cash-offer-form-received
+Disallow: /confirmation-customer-survey-received-reviews
+Disallow: /confirmation-customer-survey-received
+Disallow: /confirmation-final-cash-offer-rejected
+Disallow: /confirmation-full-cash-offer-accepted
+Disallow: /confirmation-full-cash-offer-payment-rejected-return-address-confirmed
+Disallow: /confirmation-paypal-payment-selected
+Disallow: /confirmation-return-shipping-address-changed
+Disallow: /confirmation-return-shipping-address-confirmed
+Disallow: /confirmation-second-chance-cash-offer-accepted
+Disallow: /confirmation-your-cash-offer-accepted
+
+Sitemap: https://www.cashforcameras.com/sitemap.xml
