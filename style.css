@@ -9,8 +9,6 @@
 
 /***************/
 
-let black = #333333;
-
 .footer-logo-text {
 	color: #f7f7f7;
 	font-style: italic;
@@ -653,8 +651,8 @@ let black = #333333;
 		margin-top: -6px;
 }
 
-.feature-box.no-middot:after { content: none }
-}
+.feature-box.no-middot:after { content: none; }
+
 
 /* ----------------------------------------------------------------
 	How It Works Page - CSS File
@@ -714,7 +712,6 @@ let black = #333333;
 		transform: rotate(45deg);
 		color: var(--themecolor);
 	}
-}
 
 /* Other */
 
@@ -10595,14 +10592,11 @@ body:not(.device-touch) .clients-grid li a {
 .testi-image i {
 	text-align: center;
 	background-color: #EEE;
-	border-radius: ;
 	line-height: 64px;
 	font-size: 28px;
 	color: #888;
 	text-shadow: 1px 1px 1px #FFF;
 }
-
-.testi-image img { border-radius: ; }
 
 .testi-content {
 	position: relative;
