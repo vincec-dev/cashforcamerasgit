@@ -19,6 +19,6 @@
   "homepage": "https://github.com/vincec-dev/cashforcamerasgit#readme",
   "devDependencies": {
     "webpack": "^4.37.0",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   }
 }
